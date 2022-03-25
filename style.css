@@ -1,0 +1,42 @@
+
+.body{
+
+
+}
+
+
+#logo{
+
+
+font-family: Electrolize;
+ font-size: 28px;
+  /*box-shadow: 0px 0px 5px 5px lightgray;*/
+ 
+   background-color: #0D6EFD;
+   color: white ;
+
+
+}
+
+.navbar{
+font-family: Electrolize;
+font-weight: bold;
+padding: 15px 15px;
+
+}
+
+
+#collapsibleNavbar .navbar-nav .nav-link {
+    color: whitesmoke;
+    padding: 15px 20px;
+}
+
+.services{
+
+margin: auto;
+
+}
+
+.container{
+	margin: 75px;
+}
